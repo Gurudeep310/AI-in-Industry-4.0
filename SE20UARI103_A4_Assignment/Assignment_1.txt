@@ -1,0 +1,13 @@
+Which metric is more important precision or recall ? Give a reason to your answer (for NASA RUL problem)
+
+In the context of the NASA RUL (Remaining Useful Life) problem, recall is more important than precision. This is because in this predictive maintenance scenario, our primary concern is to identify aircraft that are likely to exceed their safe operational limits, which would require servicing.
+
+High recall means that we are effectively identifying a large portion of the aircraft that need servicing, minimizing the risk of missing potentially problematic cases. We are willing to tolerate some false alarms (lower precision) by occasionally servicing aircraft that are actually fit, but we want to avoid the more critical error of failing to service an aircraft with a declining RUL.
+
+In machine learning terms, recall, also known as sensitivity or true positive rate, represents the ability of the model to correctly identify the positive class (aircraft in need of servicing) from all actual positive cases. Missing a true positive in this context can have severe safety and operational implications. Therefore, maximizing recall is crucial to ensure that potentially risky aircraft are not overlooked, even if it comes at the cost of some false positives (lower precision).
+
+
+
+
+
+
