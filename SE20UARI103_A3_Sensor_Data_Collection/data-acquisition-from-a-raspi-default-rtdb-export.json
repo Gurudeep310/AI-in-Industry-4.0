@@ -1,0 +1,64 @@
+{
+  "sensor_data": {
+    "-NecPZU_GgZjwUlkhoym": {
+      "humidity": 60.56,
+      "temperature": 23,
+      "timestamp": "2023-09-18 18:40:51"
+    },
+    "-NecQhu9vOxmBG5G6m1D": {
+      "humidity": 64.39,
+      "temperature": 23,
+      "timestamp": "2023-09-18 18:45:52"
+    },
+    "-NecRrIZjj-gqSEGiU6W": {
+      "humidity": 60.8,
+      "temperature": 23,
+      "timestamp": "2023-09-18 18:50:53"
+    },
+    "-NecT-hG0UxvAjC5kqYj": {
+      "humidity": 65.38,
+      "temperature": 25,
+      "timestamp": "2023-09-18 18:55:54"
+    },
+    "-NecU96asZcPtBiyV-UJ": {
+      "humidity": 61.59,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:00:54"
+    },
+    "-NecVIWClvY4fWcEbEe4": {
+      "humidity": 61.13,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:05:55"
+    },
+    "-NecWRv3uzcwFKrqgRg8": {
+      "humidity": 62.57,
+      "temperature": 24,
+      "timestamp": "2023-09-18 19:10:56"
+    },
+    "-NecXaKbM3FlnTkClka5": {
+      "humidity": 64.81,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:15:56"
+    },
+    "-NecYjjNRysg36NmfuqZ": {
+      "humidity": 63.39,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:20:57"
+    },
+    "-NecZt8YJdzmC9bk_WJ6": {
+      "humidity": 66.96,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:25:58"
+    },
+    "-Neca1YmKuFH7RTSP7ai": {
+      "humidity": 62.34,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:30:58"
+    },
+    "-NecbAxojNpXLAWFFfTj": {
+      "humidity": 60.01,
+      "temperature": 23,
+      "timestamp": "2023-09-18 19:35:59"
+    }
+  }
+}
