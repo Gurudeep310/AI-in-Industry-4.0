@@ -1,0 +1,4 @@
+Use Case: Virtual City Environment with Public Transportation
+
+Description:
+Aim to create a virtual city environment with a focus on public transportation. Simulate a bustling city with various elements, including rooms, a city, a bus stop, sidewalks, signs, trees, and more. The goal is to provide a realistic, interactive, and immersive urban experience for users.
