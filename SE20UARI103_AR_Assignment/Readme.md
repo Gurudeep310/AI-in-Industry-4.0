@@ -9,4 +9,4 @@ Use Case:
 
 This project could be extended to a bigger collection on AR dinosaur models and serve as a greater tool paleontology studies. Currently this tool works for android version 6.0 and above
 
-#**Complete Project Link: https://drive.google.com/drive/folders/1J_qP1z2VBOanB1bN2mVRrOEenV9bTsxP?usp=sharing**
+# **Complete Project Link: https://drive.google.com/drive/folders/1J_qP1z2VBOanB1bN2mVRrOEenV9bTsxP?usp=sharing**
